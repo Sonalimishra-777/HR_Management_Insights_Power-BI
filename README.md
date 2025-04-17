@@ -12,3 +12,18 @@ The project supports data-driven decision-making to enhance employee retention, 
 
 [HR Management Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGFhOGNhOTgtY2QxZC00ZjE4LTgwYzctMWUxZmRmMzk3ZjMyIiwidCI6ImVlYmI5YmJlLWE2NjMtNGJiZi05YzM1LTZlMjFiNmY4MTlmNyJ9)
 
+🎯 Goals and KPIs
+
+Goals:
+
+In this analysis, we look at employee demographics like gender, education field, age, marital status, and work-life balance to understand attrition trends.<br>
+Improve employee retention by identifying risk factors for attrition.<br>
+We also examine how attrition varies across job roles, departments, income levels, performance, and overtime.<br>
+Analyze salary trends to promote fair compensation.<br>
+Plus, we dig into employee well-being by reviewing satisfaction at work and in relationships, job involvement, and salary increases.<br>
+Track performance distribution across departments.<br>
+
+
+
+
+
