@@ -1,8 +1,10 @@
-# HR_Management_Insights_Power-BI
-This project is a Human Resources (HR) analytics dashboard built using Power BI.
-It provides insights into employee demographics, performance, attrition, and other key HR metrics.
+# Strategic HR Insights
+>"From Data to Decisions: HR in Focus"
 
-This HR dashboard highlights key areas for improving employee retention, satisfaction, and workforce planning through data-driven insights.
+This project is a Human Resources (HR) analytics dashboard built using Power BI.<br>
+It provides insights into employee demographics, performance, attrition, and other key HR metrics.<br>
+
+This HR dashboard highlights key areas for improving employee retention, satisfaction, and workforce planning through data-driven insights.<br>
 
 <img src="https://miro.medium.com/v2/resize:fit:1078/1*hVmDd7kBxo2z2FmH8Auvlg.png" width="600" />
 
