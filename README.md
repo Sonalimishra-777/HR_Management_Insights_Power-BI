@@ -14,7 +14,10 @@ This HR dashboard highlights key areas for improving employee retention, satisfa
 • This Power BI dashboard transforms raw HR data into clear visualizations, enabling HR teams to monitor key metrics such as attrition, performance, and department staffing.<br>
 • The project supports data-driven decision-making to enhance employee retention, optimize resource allocation, and strengthen organizational performance.
 
-📈 [HR Management Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGFhOGNhOTgtY2QxZC00ZjE4LTgwYzctMWUxZmRmMzk3ZjMyIiwidCI6ImVlYmI5YmJlLWE2NjMtNGJiZi05YzM1LTZlMjFiNmY4MTlmNyJ9)
+📈 [HR Management Insights Dashboard_Power-BI](https://app.powerbi.com/view?r=eyJrIjoiNGFhOGNhOTgtY2QxZC00ZjE4LTgwYzctMWUxZmRmMzk3ZjMyIiwidCI6ImVlYmI5YmJlLWE2NjMtNGJiZi05YzM1LTZlMjFiNmY4MTlmNyJ9)
+
+📈 [HR Management Insights Dashboard_Tableau](https://public.tableau.com/views/HR_17459147798080/HRDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 <h2>🚀 Features</h2>
@@ -81,9 +84,12 @@ Enhance diversity and inclusion initiatives based on demographic trends.<br>
 • Power BI<br>
 • Data Modeling with DAX<br>
 • Interactive Visualizations (Cards, Charts, Bookmark, Matrix)<br>
+• Tableau
 
 <h2>📂 How to Use</h2>
 
-• Download the HR_dataset.pbix file.<br>
+• Download the HR_dataset.csv file.<br>
 • Open it using Power BI Desktop.<br>
+• Open it using Tableau Public.<br>
 • Explore the dashboard and interact with the visuals!<br>
+
