@@ -1,7 +1,7 @@
 # Strategic HR Insights
 >"From Data to Decisions: HR in Focus"
 
-This project is a Human Resources (HR) analytics dashboard built using Power BI.<br>
+This project is a Human Resources (HR) analytics dashboard built using Power BI & Tableau and SQL.<br>
 It provides insights into employee demographics, performance, attrition, and other key HR metrics.<br>
 
 This HR dashboard highlights key areas for improving employee retention, satisfaction, and workforce planning through data-driven insights.<br>
