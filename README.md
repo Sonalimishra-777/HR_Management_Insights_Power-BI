@@ -85,6 +85,8 @@ Enhance diversity and inclusion initiatives based on demographic trends.<br>
 • Data Modeling with DAX<br>
 • Interactive Visualizations (Cards, Charts, Bookmark, Matrix)<br>
 • Tableau
+• SQL
+
 
 <h2>📂 How to Use</h2>
 
@@ -92,4 +94,5 @@ Enhance diversity and inclusion initiatives based on demographic trends.<br>
 • Open it using Power BI Desktop.<br>
 • Open it using Tableau Public.<br>
 • Explore the dashboard and interact with the visuals!<br>
+• Open it using SQL Server Management studio...(For SQL)<br>
 
